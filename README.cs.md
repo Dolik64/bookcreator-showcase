@@ -4,7 +4,7 @@
 
 [English](README.md) · [Všechny projekty](https://github.com/Dolik64)
 
-![Přehrávání alba v BookCreatoru](assets/player.png)
+![Přehrávání alba v BookCreatoru](assets/player.webp)
 
 ## O projektu
 
@@ -21,7 +21,7 @@ Androidová aplikace vytvořená v rámci mého bakalářského projektu na FEL 
 
 | Knihovna | Editor |
 | --- | --- |
-| ![Knihovna a akce alba](assets/library.png) | ![Editor stránek](assets/editor.png) |
+| ![Knihovna a akce alba](assets/library.webp) | ![Editor stránek](assets/editor.webp) |
 
 **Technologie:** Kotlin, Jetpack Compose, Material 3, ViewModel, Hilt, Media3, JSON.
 

@@ -4,7 +4,7 @@
 
 [Visual demo](docs/demo.md) · [Česky](README.cs.md) · [All my projects](https://github.com/Dolik64)
 
-![BookCreator album playback on a tablet, shown in a presentation device frame](assets/player.png)
+![BookCreator album playback on a tablet, shown in a presentation device frame](assets/player.webp)
 
 ## The project
 
@@ -25,7 +25,7 @@ The app separates preparation of an album from viewing it. A family member or ca
 
 | Album library | Page editor |
 | --- | --- |
-| ![Library with album actions](assets/library.png) | ![Editor with media and text slots](assets/editor.png) |
+| ![Library with album actions](assets/library.webp) | ![Editor with media and text slots](assets/editor.webp) |
 
 The images are existing project presentation captures with tablet frames. They document the interface; they are not recordings from a new test session.
 
